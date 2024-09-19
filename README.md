@@ -1,0 +1,1 @@
+Simple project that trys to divide the make the matches schedule for the new Champions League Format, by implementing a Constraint Satisfaction Problem (CSP) using Rust.
